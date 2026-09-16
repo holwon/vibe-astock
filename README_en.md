@@ -27,12 +27,6 @@ Shared AI connections, task progress, and evidence validation support market rev
 
 ---
 
-## The Author Is Open to Opportunities
-
-The author is open to AI roles at Tencent and other leading technology companies in Shenzhen, and hopes to join a team passionate about AI development. Areas of interest include AI / Agent product development, real-world deployment, and AI consulting.
-
-Contact: [simonlin0423@gmail.com](mailto:simonlin0423@gmail.com)
-
 ## Purpose
 
 Vibe AStock brings recurring short-term A-share research tasks into one local web workspace: inspect the market and yesterday's limit-up cohorts, organize review evidence, check subsequent changes, and revisit personal records and historical rules.
@@ -243,14 +237,6 @@ See [CHANGELOG.md](CHANGELOG.md) for product updates.
 ## Disclaimer
 
 This tool is for organizing data, research, and historical review, not investment decisions or trading instructions. Public data, calculations, manual records, and AI interpretations may contain errors. A citation does not establish a conclusion, and historical results do not establish future performance. Investing carries risk; verify materials independently and exercise your own judgment.
-
-## Support
-
-If this project is useful, you can buy me a coffee ☕
-
-<p align="center">
-  <a href="https://buymeacoffee.com/simonlin1212"><img src="./assets/bmc-qr.png" width="180" alt="Buy Me a Coffee"></a>
-</p>
 
 ## License
 

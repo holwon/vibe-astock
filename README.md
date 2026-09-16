@@ -27,12 +27,6 @@
 
 ---
 
-## 作者正在寻找工作机会
-
-作者目前关注腾讯等大型科技企业在深圳的 AI 相关岗位，希望加入一支热爱 AI 开发的团队，继续从事 AI / Agent 产品开发、应用落地及 AI 咨询工作。
-
-联系：[simonlin0423@gmail.com](mailto:simonlin0423@gmail.com)
-
 ## 产品定位
 
 Vibe AStock 把 A 股短线研究中反复进行的工作放在一个本地网页里：查看盘面和昨日梯队，整理复盘证据，核对次日变化，再回看自己的记录与历史规则表现。
@@ -243,14 +237,6 @@ npm --prefix frontend run build
 ## 免责声明
 
 本工具用于数据整理、研究和历史复核，不提供投资决策或交易指令。公开数据、程序计算、人工记录与 AI 解读均可能出错；引用存在不代表推论正确，历史结果不代表未来表现。投资有风险，应独立核实资料并自行判断。
-
-## 赞赏
-
-觉得有用的话，可以请我喝杯咖啡 ☕
-
-<p align="center">
-  <a href="https://buymeacoffee.com/simonlin1212"><img src="./assets/bmc-qr.png" width="180" alt="Buy Me a Coffee"></a>
-</p>
 
 ## License
 
